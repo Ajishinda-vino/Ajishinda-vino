@@ -1,7 +1,7 @@
 # 🌌 Galaxy Study Hub 🚀
 
 <div align="center">
-  <img src="https://media.giphy.com/media/H7xRjGhc1PnIu9PxrI/giphy.gif" width="250">
+  <img src="VINLY_20250809_000204_0000.png" width="250">
 </div>
 
 Halo! 👋 Saya siswi **SMK Negeri 1 Tenggarong** jurusan *Pengembangan Perangkat Lunak dan Gim* yang sedang mempersiapkan ujian masuk universitas. Repositori ini berisi materi pembelajaran dan proyek pengembangan skill:
