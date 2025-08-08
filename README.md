@@ -31,20 +31,39 @@ Folder khusus berisi proyek website untuk menunjang skill praktikum
 
 ## ✨ Struktur File
 ```bash
-📦 repository
-├── 📂 bahasa
-│   ├── 📂 materi
-│   └── 📂 tugasan
+🌌 GALAXY-LEARNING-HUB (main)
 │
-├── 📂 matematika
-│   ├── 📂 materi
-│   └── 📂 tugasan
+├── 📁 galaxy-assets/       # Aset bersama
+├── 📄 README.md            # File ini
 │
-├── 📂 english
-│   ├── 📂 materi
-│   └── 📂 tugasan
+├── 🌓 BRANCH: bahasa
+│   ├── 📖 materi/
+│   │   ├── sastra.md
+│   │   └️⃣ tata_bahasa.pdf
+│   └── ✏️ tugasan/
+│       ├── esai/
+│       └️⃣ presentasi/
 │
-└── 📂 project
-    ├── 🌐 website-portfolio
-    ├── 🎮 game-sederhana
-    └── 📱 web-responsive
+├── 🪐 BRANCH: matematika
+│   ├── 📖 materi/
+│   │   ├── aljabar.md
+│   │   └️ geometri.pdf
+│   └── ✏️ tugasan/
+│       ├── latihan/
+│       └️ ujian_praktik/
+│
+├── 🌍 BRANCH: english
+│   ├── 📖 materi/
+│   │   ├── grammar.md
+│   │   └️ vocabulary.pdf
+│   └── ✏️ tugasan/
+│       ├── writing/
+│       └️ speaking/
+│
+└── 💻 BRANCH: project
+    ├── 💻 website/
+    │   ├── index.html
+    │   └️ style.css
+    └── 🎮 game-dev/
+        ├── main.py
+        └️ assets/
