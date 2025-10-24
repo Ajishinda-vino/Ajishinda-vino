@@ -1,4 +1,4 @@
-# 🌌 Galaxy Study Hub 🚀
+# Vinly's Work Bench
 
 <div align="center">
   <img src="VINLY_20250809_000204_0000.png" width="250">
